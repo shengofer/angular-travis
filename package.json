@@ -47,7 +47,9 @@
     "main-bower-files": "^2.9.0",
     "phantomjs": "^1.9.18",
     "plato": "^1.5.0",
-    "protractor": "^1.1.1"
+    "protractor": "^1.1.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-phantomjs2-launcher": "^0.3.2"
   },
   "scripts": {
     "postinstall": "bower install",

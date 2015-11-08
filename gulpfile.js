@@ -230,4 +230,11 @@ gulp.task('tdd', function (done) {
     }, done).start();
 });
 
+gulp.task('build:only', ['tests:eslint', 'build:vendors-js', 'build:concatenated', 'build:vendors-css', 'build:less']);
+
+gulp.task('travis:test',['build:only'],function(){
+    return gulp.start('tests:unit');
+    //return gulp.start('build:only');
+});
+
 gulp.task('default', ['build']);

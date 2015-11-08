@@ -1,3 +1,4 @@
 before_script:
-  - npm start
-script: gulp dev
+  - npm install
+  - bower install
+script: gulp travis:test

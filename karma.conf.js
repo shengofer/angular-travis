@@ -1,12 +1,14 @@
 module.exports = function (config) {
     'use strict';
     config.set({
-        browsers: ['PhantomJS'],
+        browsers: ['PhantomJS2'],
         frameworks: ['jasmine'],
         reporters: ['dots', 'coverage'],
         files: [
             'build/vendors.js',
             'bower_components/angular-mocks/angular-mocks.js',
+            'app/components/programs/details/programDetails.js',
+            'app/components/programs/programDetails/lectures/lectureList.js',
             'app/**/*Config.js',
             'app/**/*Routes.js',
             'app/**/*.js',
