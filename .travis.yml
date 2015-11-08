@@ -1,0 +1,3 @@
+before_script:
+  - npm start
+script: gulp dev
