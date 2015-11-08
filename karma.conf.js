@@ -7,8 +7,6 @@ module.exports = function (config) {
         files: [
             'build/vendors.js',
             'bower_components/angular-mocks/angular-mocks.js',
-            'app/components/programs/details/programDetails.js',
-            'app/components/programs/programDetails/lectures/lectureList.js',
             'app/**/*Config.js',
             'app/**/*Routes.js',
             'app/**/*.js',
