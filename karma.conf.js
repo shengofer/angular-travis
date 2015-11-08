@@ -1,7 +1,7 @@
 module.exports = function (config) {
     'use strict';
     config.set({
-        browsers: ['PhantomJS2'],
+        browsers: ['PhantomJS'],
         frameworks: ['jasmine'],
         reporters: ['dots', 'coverage'],
         files: [
