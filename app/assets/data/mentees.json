@@ -1,0 +1,835 @@
+[
+  {
+    "name": "Vadym Kriuchkov",
+    "mentor": "Andrii Kolesnyk",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 2,
+        "name": "Lecture2: Backbone.js overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 3,
+        "name": "Lecture3: AngularJS overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 4,
+        "name": "Lecture4: FLUX and React overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  },
+  {
+    "name": "Andrii Mysnyk",
+    "mentor": "Ivan Zubenko",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 2,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture2: Backbone.js overview",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 3,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture3: AngularJS overview",
+        "mentorMark": 2,
+        "lectureMark": 3
+      },
+      {
+        "id": 4,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture4: FLUX and React overview",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 3,
+        "lectureMark": 1
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 2,
+        "lectureMark": 3
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 1,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  },
+
+
+  {
+    "name": "Nataliia Kalinova",
+    "mentor": "Dmytro Kostrub",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 2,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture2: Backbone.js overview",
+        "mentorMark": 2,
+        "lectureMark": 3
+      },
+      {
+        "id": 3,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture3: AngularJS overview",
+        "mentorMark": 4,
+        "lectureMark": 4
+      },
+      {
+        "id": 4,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture4: FLUX and React overview",
+        "mentorMark": 3,
+        "lectureMark": 4
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 4,
+        "lectureMark": 4
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  },
+
+
+  {
+    "name": "Ivan Iankovskyi",
+    "mentor": "Dmytro Kostrub",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 2,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture2: Backbone.js overview",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 3,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture3: AngularJS overview",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 4,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture4: FLUX and React overview",
+        "mentorMark": 3,
+        "lectureMark": 4
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 3,
+        "lectureMark": 2
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 2,
+        "lectureMark": 1
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  },
+
+  {
+    "name": "Anna Lebed",
+    "mentor": "Artem Prokhatskyi",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 2,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture2: Backbone.js overview",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 3,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture3: AngularJS overview",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 4,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture4: FLUX and React overview",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  },
+
+  {
+    "name": "Oleksii Novakov",
+    "mentor": "Andrii Mokhovyk",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 2,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture2: Backbone.js overview",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 3,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture3: AngularJS overview",
+        "mentorMark": 3,
+        "lectureMark": 2
+      },
+      {
+        "id": 4,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture4: FLUX and React overview",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 2,
+        "lectureMark": 1
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 1,
+        "lectureMark": 0
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 1,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  },
+
+  {
+    "name": "Vita Chukhno",
+    "mentor": "Sergii Gorbenko",
+    "homework": [
+      {
+        "id": 1,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Module 1 Web frameworks",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 2,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture2: Backbone.js overview",
+        "mentorMark": 2,
+        "lectureMark": 2
+      },
+      {
+        "id": 3,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture3: AngularJS overview",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 4,
+        "name": "Lecture1: Web Frameworks overview",
+        "module": "Lecture4: FLUX and React overview",
+        "mentorMark": 4,
+        "lectureMark": 3
+      },
+      {
+        "id": 6,
+        "name": "Lecture6: JS patterns – part 2",
+        "module": "Module 2 JavaScript Design Patterns",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 7,
+        "name": "Lecture7: TDD/Unit testing/Testing for JS projects",
+        "module": "Module 3 JavaScript testing",
+        "mentorMark": 3,
+        "lectureMark": 3
+      },
+      {
+        "id": 9,
+        "name": "Lecture9: Dealing with custom directives",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 11,
+        "name": "Lecture11: Dealing with services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 12,
+        "name": "Lecture12: Working with forms and web-services",
+        "module": "Module 4: Single page application based on Angular.js framework",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 13,
+        "name": "Lecture13: Node.js",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 3,
+        "lectureMark": 0
+      },
+      {
+        "id": 14,
+        "name": "Lecture14: Express.js – a node.js web framework",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 15,
+        "name": "Lecture15: Node.js extended features",
+        "module": "Module 5: Server programming using Node.js",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 16,
+        "name": "Lecture16: Cordova/ Phone Gap frameworks",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 1,
+        "lectureMark": 0
+      },
+      {
+        "id": 17,
+        "name": "Lecture17: Native application development",
+        "module": "Module 6: Mobile applications development",
+        "mentorMark": 0,
+        "lectureMark": 0
+      },
+      {
+        "id": 18,
+        "name": "Lecture18: Theory of Front-End Data visualization",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 4,
+        "lectureMark": 0
+      },
+      {
+        "id": 19,
+        "name": "Lecture19: D3.js library",
+        "module": "Module 7: Data visualization based on D3.js library",
+        "mentorMark": 0,
+        "lectureMark": 0
+      }
+    ]
+  }
+]

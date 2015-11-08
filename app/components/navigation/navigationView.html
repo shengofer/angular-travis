@@ -1,0 +1,7 @@
+<nav class="top-nav">
+    <ul>
+        <li ng-repeat="item in navigationCtrl.items" ng-class="{'active' : navigationCtrl.isCurrent(item)}">
+            <a href="#{{::item.url}}">{{::item.displayName}}</a>
+        </li>
+    </ul>
+</nav>
