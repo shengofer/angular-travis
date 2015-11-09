@@ -1,8 +1,12 @@
 {
-  "name": "mentoring",
-  "private": true,
-  "version": "0.0.0",
+  "name": "travis-ci",
+  "main": "app.js",
+  "version": "0.0.1",
   "repository": "",
+  "author": "Pavlo Shenhofer",
+  "engines": {
+    "node": "5.0.0"
+  },
   "devDependencies": {
     "angular": "^1.4.7",
     "angular-animate": "^1.4.7",
@@ -48,7 +52,8 @@
     "phantomjs": "^1.9.18",
     "plato": "^1.5.0",
     "protractor": "^1.1.1",
-    "karma-phantomjs-launcher": "^0.2.1"
+    "karma-phantomjs-launcher": "^0.2.1",
+    "bower": "^1.4.1"
   },
   "scripts": {
     "postinstall": "bower install",
