@@ -12,5 +12,5 @@ app.use('/', express.static(__dirname + '/app'));
 
 app.listen(port, function () {
     'use strict';
-    // console.log('Express server listening on port ' + port);
+     console.log('magic happen there ' + port);
 });
