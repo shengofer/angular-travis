@@ -1,7 +1,7 @@
-const express = require('express');
-const app = express();
-const bodyParser = require('body-parser');
-const port = 8000;
+var express = require('express');
+var app = express();
+var bodyParser = require('body-parser');
+var port = process.env.PORT || 3000;
 
 
 app.use(bodyParser.json());
