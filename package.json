@@ -56,8 +56,8 @@
     "bower": "^1.4.1"
   },
   "scripts": {
-    "postinstall": "bower install",
-    "prestart": "npm install && gulp",
+    "postinstall": "bower install && gulp",
+    "prestart": "npm install",
     "start": "node app"
   }
 }
