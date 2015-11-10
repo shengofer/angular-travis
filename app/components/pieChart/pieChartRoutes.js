@@ -2,7 +2,7 @@
     'use strict';
     angular.module('mentoringApp')
         .config(function ($stateProvider) {
-            $stateProvider.state('Pie Chart', {
+            $stateProvider.state('pieChart', {
                 url: '/pie',
                 templateUrl: 'components/pieChart/pieChartTemplate.html',
                 controller: 'PieChartController',

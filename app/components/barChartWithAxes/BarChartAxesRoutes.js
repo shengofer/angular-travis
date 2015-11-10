@@ -2,7 +2,7 @@
     'use strict';
     angular.module('mentoringApp')
         .config(function ($stateProvider) {
-            $stateProvider.state('Bar Axes', {
+            $stateProvider.state('barAxes', {
                 url: '/barAxes',
                 templateUrl: 'components/barChartWithAxes/barChartTemplate.html',
                 controller: 'BarChartAxesController',
