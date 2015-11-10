@@ -58,6 +58,6 @@
   "scripts": {
     "postinstall": "bower install",
     "prestart": "npm install && gulp",
-    "start": "gulp dev"
+    "start": "node app"
   }
 }

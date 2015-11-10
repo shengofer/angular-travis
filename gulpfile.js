@@ -237,4 +237,4 @@ gulp.task('travis:test',['build:only'],function(){
     //return gulp.start('build:only');
 });
 
-gulp.task('default', ['build']);
+gulp.task('default', ['build:only']);
