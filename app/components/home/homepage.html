@@ -13,6 +13,8 @@
 
                             <p>
                                 This is used to host app.
+                                Settings in Procfile.
+                                Heroku connected to github project page. Watching master branch and deploy every time, travis passed
                             </p>
                         </div>
                     </md-item-content>
@@ -25,9 +27,58 @@
                             <h4><a href="https://travis-ci.org/shengofer/angular-travis">Travis for project</a></h4>
 
                             <p>
-                                item.notes
+                                Settings in travis.yml
+                                Travis watching master branch and run after every commit to github
                             </p>
                         </div>
+                    </md-item-content>
+                    <md-divider ng-if="!$last"></md-divider>
+
+                    <md-item-content>
+
+                        <div class="md-tile-content">
+                            <h3>Karma and jasmine for test</h3>
+                            <h4><a href="https://travis-ci.org/shengofer/angular-travis">Travis for project</a></h4>
+
+                            <p>
+                               Can be found under test/unit.
+                                Also after running gulp task "gulp tests:unit" under build/coverage are showed test coverage of our code
+                            </p>
+                        </div>
+                    </md-item-content>
+                    <md-divider ng-if="!$last"></md-divider>
+
+                    <md-item-content>
+
+                        <div class="md-tile-content">
+                            <h3>Gulp</h3>
+
+                            <p>
+                               For task runner using gulp
+                            </p>
+                        </div>
+                    </md-item-content>
+                    <md-divider ng-if="!$last"></md-divider>
+
+
+                    <div class="md-tile-content">
+                        <h3>nvm</h3>
+
+                        <p>
+                            nvm using to set up version
+                        </p>
+                    </div>
+                    </md-item-content>
+                    <md-divider ng-if="!$last"></md-divider>
+
+                    <div class="md-tile-content">
+                        <h3>eslint</h3>
+
+                        <p>
+                            Watching our code to show errors and warnings.
+                            Settings in .eslintrc
+                        </p>
+                    </div>
                     </md-item-content>
                     <md-divider ng-if="!$last"></md-divider>
                 </md-item>

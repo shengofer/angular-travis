@@ -4,10 +4,12 @@
 
 
 
-# d3-library
+# Automatization
 
-D3.js library
+setting to automatization our project
 
+##backbone supply stock application
+Maybe live demo: [heroku_project_demo](https://shengofertravis.herokuapp.com)
 
 ## Setup
 
