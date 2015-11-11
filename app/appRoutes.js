@@ -7,7 +7,9 @@
             $stateProvider
                 .state('homePage', {
                     url: '/',
-                    templateUrl: 'components/home/homepage.html'
+                    templateUrl: 'components/home/homepage.html',
+                    controller: 'HomePageController',
+                    controllerAs: 'homepageCtrl'
                 });
         })
         .constant('MENTEE_LIST_ROUTE', 'assets/data/');
