@@ -7,3 +7,10 @@ before_script:
   - npm install
   - bower install
 script: gulp travis:test
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: "12452b1b-f088-4ab6-abd6-b23889b8b6d0"
+  app:
+      master: my-app-travis
