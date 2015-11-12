@@ -36,9 +36,4 @@ describe('Bar Chart with axes Controller', () => {
     xit('should contain series list', () => {
         expect(sut.series).toBeDefined();
     });
-
-    xit('should contain method  getQuantityOfDoneHWOfMentee', () => {
-        console.log(sut);
-        // expect(sut.getQuantityOfDoneHWOfMentee).toBeDefined();
-    });
 });
